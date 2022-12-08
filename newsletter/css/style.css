@@ -225,7 +225,7 @@ hr{
     background: var(--yellowColor);
 }
 .block-about .btn{
-   
+    background: #ffeaeb;
     color: var(--redColor);
     border-radius: 50px;
     margin-top: 30px;
@@ -236,7 +236,8 @@ hr{
     transition: .3s;
 }
 .block-about .btn:hover{
-    background: #ffeaeb;
+    background: var(--redColor);
+    color: var(--bglight);
 }
 .block-formation{
     padding: 50px 0;
@@ -293,7 +294,7 @@ hr{
     background: #e8e4fd;
 }
 .block-all-catalogue .btn{
-   
+   background: #ffeaeb;
     color: var(--redColor);
     border-radius: 50px;
     margin-top: 30px;
@@ -304,7 +305,8 @@ hr{
     transition: .3s;
 }
 .block-all-catalogue .btn:hover{
-    background: #ffeaeb;
+    background: var(--redColor);
+    color: var(--whiteColor);
 }
 .block-sem{
     padding: 50px 0;
@@ -317,7 +319,7 @@ hr{
     margin-bottom: 20px;
 }
 .block-sem .btn{
-   
+    background: #ffeaeb;
     color: var(--redColor);
     border-radius: 50px;
     margin-top: 30px;
@@ -328,7 +330,8 @@ hr{
     transition: .3s;
 }
 .block-sem .btn:hover{
-    background: #ffeaeb;
+    background: var(--redColor);
+    color: var(--whiteColor);
 }
 footer p span{
     color: var(--colorText);
